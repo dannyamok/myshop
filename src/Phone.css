@@ -1,0 +1,15 @@
+
+.Phone{
+  display: flex;
+  flex-direction: row;
+  margin:0;
+}
+.shop{
+  display: flex;
+  flex-direction: column;
+
+}
+.shop_row {
+    display: flex;
+    margin: 0, 5px;
+  }

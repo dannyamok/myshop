@@ -1,0 +1,15 @@
+.Sidebar{
+    display: flex;
+    max-width: 280px;
+    margin-top: 0;
+    width: 100%;
+    border-left: 1px solid black;
+    background: rgb(255, 255, 255);
+    flex-direction: column;
+    text-align: center;
+}
+
+.Sidebar h4{
+    margin:10px;
+    font-size: 14pt;
+}

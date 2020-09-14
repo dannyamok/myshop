@@ -1,0 +1,32 @@
+.menu {
+    width: 100%;
+    display: block;
+    text-align: center;
+    padding: 0px;
+  }
+  .menu_items {
+    position: relative;
+    top: 0px;
+    font-size: 24px;
+    padding: 0px;
+    list-style: outside none none;
+  }
+
+  .menu_items li {
+    margin-bottom: 10px;
+  }
+
+  .current{
+    text-decoration: none;
+    color: rgb(15, 80, 221);
+    padding: 10px;
+  }
+
+  .current:hover{
+     cursor: hand;
+     border-radius: 8px;
+     background: linear-gradient(45deg,rgb(15, 80, 221) ,white,rgb(255, 255, 255), rgb(15, 80, 221) );
+  }
+
+  
+  
